@@ -14,7 +14,7 @@ public class Control {
 		this.tv.turnOff();
 	}
 	public void canalUp() {
-		this.tv.canalUP();
+		this.tv.canalUp();
 	}
 	public void canalDown() {
 		this.tv.canalDown();
