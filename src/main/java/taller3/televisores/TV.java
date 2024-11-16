@@ -84,7 +84,7 @@ public class TV {
 	public boolean getEstado() {
 		return estado;
 	}
-	public void canalUP() {
+	public void canalUp() {
 		if(estado==true) {
 			if (canal==120) {
 				return;
