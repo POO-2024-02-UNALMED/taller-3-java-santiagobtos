@@ -17,8 +17,8 @@ public class TV {
 	public void setMarca(Marca marca) {
 		this.marca=marca;
 	} 
-	public String getMarca () {
-		return this.marca.getNombre();
+	public Marca getMarca () {
+		return this.marca;
 	}
 	public void setCanal(int cambio) {
 		if(estado==true) {
