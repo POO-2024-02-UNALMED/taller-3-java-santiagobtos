@@ -12,6 +12,6 @@ class Marca {
 		return this.nombre;
 	}
 	public void setNombre(String nuevon) {
-		nombre=nuevon;
+		this.nombre=nuevon;
 	}
 }
