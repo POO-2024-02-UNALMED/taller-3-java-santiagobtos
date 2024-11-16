@@ -31,4 +31,10 @@ public class Control {
 	public TV getTv() {
 		return this.tv;
 	}
+	public void	volumenUp() {
+		this.tv.volumenUP();
+	}
+	public void volumenDown() {
+		this.tv.volumenDown();
+	}
 }
